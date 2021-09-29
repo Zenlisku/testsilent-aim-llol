@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenlisku/sietnaimsldow314e/main/lo"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenlisku/sietnaimsldow314e/main/L"))()
 Aiming.TeamCheck(false)
 
 -- // Services
